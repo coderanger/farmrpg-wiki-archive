@@ -39,7 +39,7 @@ def sync_page(
     with page_path.open("w") as outf:
         yaml.dump(frontmatter, outf, sort_keys=True)
         outf.write("---\n")
-        outf.write(page_content)
+        outf.write(page_content.replace("\r\n", "\n").replace("\r", "\n"))
 
 
 def sync_wiki():
