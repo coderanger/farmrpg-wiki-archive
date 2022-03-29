@@ -1,3 +1,4 @@
+import json
 import re
 import sys
 import traceback
@@ -16,7 +17,6 @@ def sync_page(
     page_path = ROOT_PATH / "wiki" / f"{name.replace('/', '-')}.bbcode"
     frontmatter = {
         "name": name,
-        "views": views,
         "updated_datetime": updated_datetime,
     }
     page_content = None
@@ -28,6 +28,7 @@ def sync_page(
         if existing_frontmatter["updated_datetime"] == updated_datetime:
             # Page hasn't been updated, use the old content.
             page_content = existing[1].lstrip()
+            # TODO After the views removal propgates, this can just early out instead.
 
     if page_content is None:
         # Download the page content.
@@ -51,12 +52,16 @@ def sync_wiki():
         resp = c.get("library")
         resp.raise_for_status()
         errors = []
+        views = {}
         for page in resp.json():
+            views[page["name"]] = page["views"]
             try:
                 sync_page(c, **page)
             except Exception:
                 errors.append(page["name"])
                 traceback.print_exc(file=sys.stdout)
+        with (ROOT_PATH / "views" / "current.json").open("w") as outf:
+            json.dump(views, outf, indent=2, sort_keys=True)
         if errors:
             print("Errors fetching:")
             print("\n".join(errors))

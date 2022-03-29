@@ -1,9 +1,8 @@
 import csv
 import datetime
-import re
+import json
 from pathlib import Path
 
-import yaml
 from git import Repo
 
 ROOT_PATH = (Path(__file__) / "..").resolve()
@@ -15,15 +14,15 @@ def pull_views():
     data: list[tuple[datetime.datetime, dict[str, int]]] = []
     repo = Repo(str(ROOT_PATH))
     for commit in repo.iter_commits("main"):
-        views: dict[str, int] = {}
-        for blob in commit.tree["wiki"].blobs:
-            frontmatter = yaml.safe_load(
-                re.split(
-                    r"^---$", blob.data_stream.read().decode(), 1, flags=re.MULTILINE
-                )[0]
-            )
-            views[frontmatter["name"]] = frontmatter["views"]
-            all_pages.add(frontmatter["name"])
+        if "Latest data:" not in commit.message:
+            continue
+        try:
+            blob = commit.tree / "views" / "current.json"
+        except KeyError:
+            # Too early, ignoring.
+            continue
+        views: dict[str, int] = json.load(blob.data_stream)
+        all_pages |= views.keys()
         data.append((commit.authored_datetime, views))
     assert "Timestamp" not in all_pages
     # Generate a CSV file with all view data.
