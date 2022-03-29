@@ -1,4 +1,5 @@
 import re
+import sys
 import traceback
 import urllib.parse
 from pathlib import Path
@@ -55,7 +56,7 @@ def sync_wiki():
                 sync_page(c, **page)
             except Exception:
                 errors.append(page["name"])
-                traceback.print_exc()
+                traceback.print_exc(file=sys.stdout)
         if errors:
             print("Errors fetching:")
             print("\n".join(errors))
