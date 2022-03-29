@@ -10,6 +10,7 @@ readme = "README.md"
 python = "^3.10"
 httpx = "^0.22.0"
 PyYAML = "^6.0"
+GitPython = "^3.1.27"
 
 [build-system]
 requires = ["poetry-core"]
