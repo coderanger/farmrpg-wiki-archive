@@ -1,5 +1,6 @@
 import re
 import traceback
+import urllib.parse
 from pathlib import Path
 
 import httpx
@@ -30,7 +31,7 @@ def sync_page(
     if page_content is None:
         # Download the page content.
         print(f"Downloading {name}")
-        resp = c.get(f"library/{name}")
+        resp = c.get(f"library/{urllib.parse.quote(name)}")
         resp.raise_for_status()
         page = resp.json()
         page_content = page[0]["content"]
