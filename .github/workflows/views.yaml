@@ -1,10 +1,10 @@
-name: Scrape latest data
+name: Generate views.csv
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '*/10 * * * *'
+    - cron:  '0 */2 * * *'
 
 jobs:
   scheduled:
@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
     - name: Set up Python 3.10
       uses: actions/setup-python@v2
       with:
@@ -20,7 +22,7 @@ jobs:
       run: |-
         python3.10 -m pip install poetry
         python3.10 -m poetry install
-        python3.10 -m poetry run python main.py
+        python3.10 -m poetry run python views.py
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
