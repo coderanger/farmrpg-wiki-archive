@@ -19,6 +19,8 @@ jobs:
       with:
         python-version: "3.10"
     - name: Fetch latest data
+      env:
+        PAGE_VIEWS_IGNORE: ${{ secrets.PAGE_VIEWS_IGNORE }}
       run: |-
         python3.10 -m pip install poetry
         python3.10 -m poetry install
