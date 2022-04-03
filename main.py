@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import sys
 import traceback
@@ -9,6 +10,9 @@ import httpx
 import yaml
 
 ROOT_PATH = (Path(__file__) / "..").resolve()
+PAGE_VIEWS_IGNORE = [
+    s.strip() for s in os.environ.get("PAGE_VIEWS_IGNORE", "").split(",") if s.strip()
+]
 
 
 def sync_page(
@@ -61,6 +65,8 @@ def sync_wiki():
                 errors.append(page["name"])
                 traceback.print_exc(file=sys.stdout)
         with (ROOT_PATH / "views" / "current.json").open("w") as outf:
+            for ignore in PAGE_VIEWS_IGNORE:
+                views.pop(ignore, None)
             json.dump(views, outf, indent=2, sort_keys=True)
         if errors:
             print("Errors fetching:")

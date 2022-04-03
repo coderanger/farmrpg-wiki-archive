@@ -2,11 +2,15 @@ import csv
 import datetime
 import itertools
 import json
+import os
 from pathlib import Path
 
 from git.repo import Repo
 
 ROOT_PATH = (Path(__file__) / "..").resolve()
+PAGE_VIEWS_IGNORE = [
+    s.strip() for s in os.environ.get("PAGE_VIEWS_IGNORE", "").split(",") if s.strip()
+]
 
 ViewsData = list[tuple[dict[str, datetime.datetime], dict[str, int]]]
 
@@ -65,6 +69,8 @@ def pull_views():
             # Too early, ignoring.
             continue
         views: dict[str, int] = json.load(blob.data_stream)
+        for ignore in PAGE_VIEWS_IGNORE:
+            views.pop(ignore, None)
         all_pages |= views.keys()
         data.append(({"Timestamp": commit.authored_datetime}, views))
     assert "Timestamp" not in all_pages
@@ -85,6 +91,7 @@ def pull_views():
                 view_diff,
             )
         )
+    # Diffs but by day (roughly).
     write_csv(diffs, ROOT_PATH / "views" / "diffs.csv", all_pages)
     # Variant files for each that are in a simpler layout.
     write_flat_csv(data, ROOT_PATH / "views" / "flat_views.csv")
