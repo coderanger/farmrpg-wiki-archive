@@ -1,10 +1,10 @@
 name: Generate views.csv
 
-on:
-  push:
-  workflow_dispatch:
-  schedule:
-    - cron:  '5 */2 * * *'
+#on:
+#  push:
+#  workflow_dispatch:
+#  schedule:
+#    - cron:  '5 */2 * * *'
 
 jobs:
   scheduled:
