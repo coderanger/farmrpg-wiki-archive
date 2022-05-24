@@ -3,7 +3,9 @@ import re
 import sys
 import traceback
 import urllib.parse
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import httpx
 import yaml
@@ -59,6 +61,21 @@ def sync_wiki():
         except Exception:
             errors.append(page["name"])
             traceback.print_exc(file=sys.stdout)
+    all_pages = {name.replace("/", "-") for name in views}
+    now = datetime.now(tz=ZoneInfo("America/Chicago"))
+    for page_path in ROOT_PATH.glob("wiki/*.bbcode"):
+        if page_path.stem in all_pages:
+            # Filter any page that still exists in the API.
+            continue
+        # Mark the page as deleted.
+        existing = re.split(r"^---$", page_path.read_text(), 1, flags=re.MULTILINE)
+        frontmatter = yaml.safe_load(existing[0])
+        if "deleted_datetime" not in frontmatter:
+            frontmatter["deleted_datetime"] = now.isoformat()
+            with page_path.open("w") as outf:
+                yaml.dump(frontmatter, outf, sort_keys=True)
+                outf.write("---")
+                outf.write(existing[1])
     with (ROOT_PATH / "views" / "current.json").open("w") as outf:
         json.dump(views, outf, indent=2, sort_keys=True)
     if errors:
