@@ -86,7 +86,7 @@ def sync_wiki():
 def sync_tower():
     resp = client.get("towercounts")
     resp.raise_for_status()
-    tower = {i + 1: 0 for i in range(100)}
+    tower = {i + 1: 0 for i in range(max(row["tower"] for row in resp.json()))}
     for row in resp.json():
         tower[row["tower"]] = row["count"]
     with (ROOT_PATH / "tower" / "current.json").open("w") as outf:
