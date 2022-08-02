@@ -93,6 +93,14 @@ def sync_tower():
         json.dump(tower, outf, indent=2, sort_keys=True)
 
 
+def sync_rfc():
+    resp = client.get("rfc")
+    resp.raise_for_status()
+    with (ROOT_PATH / "rfc" / "current.json").open("w") as outf:
+        json.dump(resp.json(), outf, indent=2, sort_keys=True)
+
+
 if __name__ == "__main__":
     sync_wiki()
     sync_tower()
+    sync_rfc()
