@@ -48,6 +48,32 @@ def write_flat_csv(
                 )
 
 
+def write_unviewed_pages(data: ViewsData, path: Path, all_pages: set[str]):
+    # Find the first row from the last 30 days.
+    now = datetime.datetime.now(zoneinfo.ZoneInfo("UTC"))
+    limit_ts = now - datetime.timedelta(days=30)
+    first_row = None
+    for timestamps, views in data:
+        if timestamps["Timestamp"] >= limit_ts:
+            first_row = views
+            break
+    else:
+        raise Exception("Unable to find first row?")
+    last_row = data[-1][1]
+
+    # Find the diffs.
+    diffs = {page: last_row.get(page, 0) - first_row.get(page, 0) for page in all_pages}
+    unviewed = {page: views for page, views in diffs.items() if views <= 10}
+
+    with path.open("w") as outf:
+        outf.write(
+            f"Pages with 10 views or fewer in the last 30 days. Updated at {now.isoformat()}\n----\n"
+        )
+
+        for page, views in sorted(unviewed.items(), key=lambda kv: (kv[1], kv[0])):
+            outf.write(f"{page}: {views}\n")
+
+
 def pull_views():
     # Parse the Git history for views over time.
     all_pages: set[str] = set()
@@ -98,6 +124,7 @@ def pull_views():
             )
         )
     write_csv(diffs, ROOT_PATH / "views" / "diffs.csv", all_pages)
+    write_unviewed_pages(data, ROOT_PATH / "views" / "unviewed_pages.txt", all_pages)
     # Variant files for each that are in a simpler layout.
     # write_flat_csv(data, ROOT_PATH / "views" / "flat_views.csv")
     # write_flat_csv(diffs, ROOT_PATH / "views" / "flat_diffs.csv")
