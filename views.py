@@ -2,9 +2,11 @@ import csv
 import datetime
 import itertools
 import json
+import re
 import zoneinfo
 from pathlib import Path
 
+import yaml
 from git.repo import Repo
 
 ROOT_PATH = (Path(__file__) / "..").resolve()
@@ -48,6 +50,15 @@ def write_flat_csv(
                 )
 
 
+def is_page_deleted(page: str):
+    page_path = ROOT_PATH / "wiki" / f"{page}.bbcode"
+    if not page_path.exists():
+        return False
+    page_data = re.split(r"^---$", page_path.read_text(), 1, flags=re.MULTILINE)
+    page_frontmatter = yaml.safe_load(page_data[0])
+    return "deleted_datetime" in page_frontmatter
+
+
 def write_unviewed_pages(data: ViewsData, path: Path, all_pages: set[str]):
     # Find the first row from the last 30 days.
     now = datetime.datetime.now(zoneinfo.ZoneInfo("UTC"))
@@ -63,7 +74,11 @@ def write_unviewed_pages(data: ViewsData, path: Path, all_pages: set[str]):
 
     # Find the diffs.
     diffs = {page: last_row.get(page, 0) - first_row.get(page, 0) for page in all_pages}
-    unviewed = {page: views for page, views in diffs.items() if views <= 10}
+    unviewed = {
+        page: views
+        for page, views in diffs.items()
+        if views <= 10 and not is_page_deleted(page)
+    }
 
     with path.open("w") as outf:
         outf.write(
