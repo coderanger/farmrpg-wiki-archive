@@ -1,9 +1,9 @@
-Pages with 10 views or fewer in the last 30 days. Updated at 2023-03-06T08:08:08.423796+00:00
+Pages with 10 views or fewer in the last 30 days. Updated at 2023-03-06T12:24:42.709533+00:00
 ----
 best upgrades: -48496
 happy cookie vs spooky cookie: -12508
 Buddy gang: -3023
-Perk Guide: -1378
+Perk Guide: -1371
 buddy understands and buddy cares: -811
 Ninja Gang: -616
 Blue Ghost is a knucklehead: -351
@@ -158,7 +158,6 @@ NoVelcroShoes: 4
 Peac?h Cobbler: 4
 RCSA: 4
 SE: 4
-hidden gem: 4
 jello gang: 4
 nsfw: 4
 number go up is the way: 4
@@ -179,6 +178,7 @@ don't sell: 5
 for: 5
 forcepath is blind: 5
 free: 5
+hidden gem: 5
 honksville: 5
 leafmealone: 5
 leafmeolone: 5
