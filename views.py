@@ -2,11 +2,13 @@ import csv
 import datetime
 import itertools
 import json
+import zoneinfo
 from pathlib import Path
 
 from git.repo import Repo
 
 ROOT_PATH = (Path(__file__) / "..").resolve()
+SERVER_TIME_ZONE = zoneinfo.ZoneInfo("America/Chicago")
 
 ViewsData = list[tuple[dict[str, datetime.datetime], dict[str, int]]]
 
@@ -51,6 +53,7 @@ def pull_views():
     all_pages: set[str] = set()
     data: ViewsData = []
     repo = Repo(str(ROOT_PATH))
+    next_ts = None
     for commit in repo.iter_commits("main"):
         message = (
             commit.message
@@ -59,6 +62,15 @@ def pull_views():
         )
         if "Latest data:" not in message:
             continue
+        # Only pull the "first" (actually last because reverse order) commit from each day.
+        # This is purely to reduce the file size on views.csv, it's too big for GitHub at
+        # full resolution, so cut it to a single row per day.
+        if next_ts is not None and commit.authored_datetime >= next_ts:
+            continue
+        # Advance (backwards) to the start of this day.
+        next_ts = commit.authored_datetime.astimezone(SERVER_TIME_ZONE).replace(
+            hour=0, minute=0, second=0, microsecond=0
+        )
         try:
             blob = commit.tree / "views" / "current.json"  # type: ignore
         except KeyError:
@@ -87,8 +99,8 @@ def pull_views():
         )
     write_csv(diffs, ROOT_PATH / "views" / "diffs.csv", all_pages)
     # Variant files for each that are in a simpler layout.
-    write_flat_csv(data, ROOT_PATH / "views" / "flat_views.csv")
-    write_flat_csv(diffs, ROOT_PATH / "views" / "flat_diffs.csv")
+    # write_flat_csv(data, ROOT_PATH / "views" / "flat_views.csv")
+    # write_flat_csv(diffs, ROOT_PATH / "views" / "flat_diffs.csv")
 
 
 if __name__ == "__main__":
