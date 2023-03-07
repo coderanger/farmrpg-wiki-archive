@@ -1,6 +1,6 @@
-Pages with 10 views or fewer in the last 30 days. Updated at 2023-03-06T19:10:10.630758+00:00
+Pages with 10 views or fewer in the last 30 days. Updated at 2023-03-07T00:42:37.946125+00:00
 ----
-Perk Guide: -1359
+Perk Guide: -1341
 Forever: 0
 Two ways to carry two donuts at once: 0
 WTFAQ: 0
@@ -53,7 +53,6 @@ snowball fight: 3
 you Lost: 3
 DQs: 4
 Happy Worm Oprah Day: 4
-Iron Cup: 4
 Library: 4
 NA7E: 4
 NoVelcroShoes: 4
@@ -87,8 +86,8 @@ llek spin: 5
 strawberry gang: 5
 trapped: 5
 wuarry: 5
-Deal: 6
 FarmGate: 6
+Iron Cup: 6
 KlNG: 6
 Random Jokes: 6
 Sealworm: 6
@@ -97,10 +96,10 @@ four more letters: 6
 null: 6
 upj: 6
 |: 6
--redacted-: 7
 Another day with another gold potat: 7
 Big Onion: 7
 Country Store: 7
+Deal: 7
 GET ITEM: 7
 Hot Potat: 7
 Pepperidge Farms: 7
@@ -129,18 +128,14 @@ Hands: 9
 OR: 9
 Ssss: 9
 bc: 9
-dont sell it again: 9
 gold corral: 9
 hoptimistic: 9
 mobius: 9
 pleasant: 9
-yddub: 9
-Flea Market: 10
-Goat Gang: 10
 PG: 10
 Wheres my kitchen: 10
 a barren wasteland: 10
+dont sell it again: 10
 gnag Noops: 10
 gold egg plant gang: 10
 puffer gang: 10
-redacted: 10
