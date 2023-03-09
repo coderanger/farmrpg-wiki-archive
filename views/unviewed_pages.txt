@@ -1,6 +1,6 @@
-Pages with 10 views or fewer in the last 30 days. Updated at 2023-03-08T12:23:47.528373+00:00
+Pages with 10 views or fewer in the last 30 days. Updated at 2023-03-09T00:43:52.963027+00:00
 ----
-Perk Guide: -1433
+Perk Guide: -1405
 Forever: 0
 Two ways to carry two donuts at once: 0
 WTFAQ: 0
@@ -27,20 +27,17 @@ finnLEE: 1
 magicandwires: 1
 nicolas cage: 1
 says: 1
-we want: 1
 your mother: 1
 Awoir: 2
 Code of Misconduct: 2
-Elf on a Shelf: 2
 Powerless Heroes: 2
 Rudolph: 2
 Virtual Night Trivia: 2
 [[[Ffff]]]: 2
 back the faq up: 2
-ryber: 2
 sga: 2
 the plane: 2
-KiaKatt: 3
+we want: 2
 Library: 3
 NA7E: 3
 Peac?h Cobbler: 3
@@ -50,6 +47,7 @@ Upd?tes: 3
 jackie: 3
 onion: 3
 pebcak error: 3
+ryber: 3
 server lag: 3
 snowball: 3
 snowball fight: 3
@@ -59,6 +57,7 @@ you Lost: 3
 Bhelogans videos for farmers who can’t read good: 4
 DQs: 4
 Deal: 4
+Elf on a Shelf: 4
 Gullible: 4
 Happy Worm Oprah Day: 4
 NoVelcroShoes: 4
@@ -68,10 +67,8 @@ SE: 4
 When Jessica updates a library page: 4
 beta tester: 4
 for: 4
-forcepath is blind: 4
 four more letters: 4
 hidden gem: 4
-jello gang: 4
 llek spin: 4
 nsfw: 4
 number go up is the way: 4
@@ -83,8 +80,10 @@ Poseidon: 5
 auggiesnack: 5
 doggo: 5
 don't sell: 5
+forcepath is blind: 5
 free: 5
 honksville: 5
+jello gang: 5
 leafmeolone: 5
 ok i pull up: 5
 optimism: 5
@@ -92,7 +91,6 @@ strawberry gang: 5
 trapped: 5
 |: 5
 Garnet: 6
-KlNG: 6
 Nicholas Cage: 6
 OR: 6
 Pepperidge Farms: 6
@@ -124,21 +122,18 @@ leafmealone: 8
 referral code: 8
 spoliers: 8
 strange onion club: 8
-Flamingo Gang: 9
 Goat Gang: 9
 Hands: 9
 PG: 9
 Wheres my kitchen: 9
-bc: 9
-hoptimistic: 9
 id-10t error: 9
 mobius: 9
 pleasant: 9
 B: 10
+Flamingo Gang: 10
 Flea Market: 10
 a barren wasteland: 10
-dont sell it again: 10
-gnag Noops: 10
+bc: 10
+hoptimistic: 10
 nails: 10
 pony gang: 10
-puffer gang: 10
