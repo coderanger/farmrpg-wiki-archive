@@ -1,8 +1,7 @@
-Pages with 10 views or fewer in the last 30 days. Updated at 2023-04-21T12:27:14.576986+00:00
+Pages with 10 views or fewer in the last 30 days. Updated at 2023-04-22T00:45:45.766876+00:00
 ----
 ?: 0
 Elf on a Shelf: 0
-Forever: 0
 OR: 0
 S: 0
 Virtual Night Trivia: 0
@@ -21,6 +20,7 @@ where's my kitchen?: 0
 your mother: 0
 Deal: 1
 FarmGate: 1
+Forever: 1
 NA7E: 1
 NoVelcroShoes: 1
 Peac?h Cobbler: 1
@@ -81,7 +81,6 @@ strawberry gang: 3
 super  rares: 3
 this is fine: 3
 wuarry: 3
--redacted-: 4
 Bhelogans videos for farmers who can’t read good: 4
 Trivia Games: 4
 What Just Happened: 4
@@ -90,6 +89,7 @@ four more letters: 4
 iron works: 4
 lingo: 4
 super rates: 4
+-redacted-: 5
 Dark Mode: 5
 DontSellIt: 5
 Goat Gang: 5
@@ -97,7 +97,6 @@ Hands: 5
 Happy Worm Oprah Day: 5
 Iron Cup: 5
 PMMG: 5
-Random Words: 5
 WTFAQ: 5
 ]: 5
 advice: 5
@@ -129,6 +128,7 @@ Cid’s stone ale: 7
 Gorilla Gang: 7
 KlNG: 7
 Not Updates: 7
+Random Words: 7
 SFR: 7
 TPPI: 7
 When Jessica updates a library page: 7
@@ -148,7 +148,6 @@ id-10t error: 8
 null: 8
 optimism: 8
 Click Here: 9
-Development Roadmap: 9
 Flea Market: 9
 Forbidden Talk: 9
 Giamics' Jubilee: 9
@@ -157,13 +156,11 @@ Saturn Gang: 9
 cooked turkey: 9
 dont sell it again: 9
 otter romp: 9
-soon: 9
 www.farmrpg.com: 9
 Frozen Crops: 10
 KiaKatt: 10
 PG: 10
 SLR: 10
 bb: 10
-jokes: 10
 magicandwires: 10
 strange gem gang: 10
