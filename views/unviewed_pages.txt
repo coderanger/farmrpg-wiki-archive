@@ -1,4 +1,4 @@
-Pages with 10 views or fewer in the last 30 days. Updated at 2023-05-17T12:46:42.463989+00:00
+Pages with 10 views or fewer in the last 30 days. Updated at 2023-05-18T00:59:27.553576+00:00
 ----
 KlNG: 0
 Warnicorn's Pet Guide: 0
@@ -88,20 +88,17 @@ lock smith: 8
 panda gang: 8
 ryber: 8
 strawberry gang: 8
--redacted-: 9
 KiaKatt: 9
 Reset Bug: 9
 SFR: 9
 leafmeolone: 9
 magicandwires: 9
-super rates: 9
-Pepperidge Farms: 10
+-redacted-: 10
 Shark Fin Gang: 10
 dont sell it again: 10
 for: 10
 leafmealone: 10
 penguin gang: 10
-pleasant: 10
 rapture pen: 10
-super  rares: 10
+super rates: 10
 upj: 10
