@@ -1,0 +1,42 @@
+name: BB Code Backup
+updated_datetime: '2024-01-03 18:44:17.000000'
+---
+[[bb color list]], [[font list]], [[bb hl list]]
+
+BB Code (bulletin board code) is a collection of formatting tags. Tags are placed in Square Brackets [command]  and an [/command] at the end of the affected text (with the exception of [ line] which does nit need to be closed). While there are many flavors of BB Code in existence, this guide includes the ones applicable to  creating and updating [library] pages for FarmRPG. In this guide, there's an extra space in the example brackets to show unparsed code. 
+[color=cornflowerblue][b][i]I highly recommend using a backup page to make edits for anything that you'll be sad about if it accidentally gets deleted/messed up. Accidents do happen, especially when editing on mobile.[s]NVS accidentally deleted the entire faq once. Rkm13 deleted the staff page.[/s][/i][/b][/color]Spacings can look wonky sometimes, so use your backup pages to test how things look![line][color=#2B5BCC]Blue Color[/color] - [color =#2B5BCC]Blue Color[/color]
+[color=violet]Violet Color[/color] - [color =violet]Violet Color[/color]
+[font=comic sans ms]fonts[/font] - [font = comic sans ms] fonts [/fonts]
+[hl=orchid]highlight[/hl] - [hl = color]highlight[/hl]
+line - Note, this one is a single [ ] command, you don't need to close it. [ line]
+[line]
+[b]Bold[/b] - [b ]Bold[/b] --- [i]Italics[/i] - [i ]Italics[/i]
+Images: [img]link[/img]
+[img]https://i.imgur.com/nE8Rste.gif[/img]
+Small Images:[imgsm]link[/imgsm]
+[imgsm]https://i.imgur.com/nE8Rste.gif[/imgsm]
+align text using [left ]/ [right ]/[ center]
+[quote = name] (change font color to white)
+[ url]link [ /url]
+[ url= named]link [/url ]
+[yt ] youtube vids! [/yt]
+[user ] link our names [/user]
+[sup / sub] superscript and subscript
+
+[d=Visible text]You can't see me![/d][d=visible text]hidden text[/ d]
+
+Spoiler[s]Hi, you have to click to see me![/s][s ]Hi, you have to click to see me![/s]
+
+If you put [b ] and [/b ] around the [s ] of a spoiler tag, you get &quot;details&quot; instead of &quot;spoiler&quot;. [b][s][/b]Hi, you have to click to see me![/s]
+
+Lists
+[list][item]Item 1[/item][item]Item 2[/item][item]Item 3[/item][/list]
+[ list][ item]Item 1[/item][ item]Item 2[/item][ item]Item 3[/item][/list]
+
+Tables: Tables use A TR (Table Row), TH (Table Header), and TD (Table Data) headers. TR needs to be at the start and end of every row. TH will make a cell have bold text
+
+[table][tr][th]Runestone[/th][th]Location[/th][/tr][tr][td]  #1[/td][td]Carrot[/td][/tr][tr][td]  #2[/td][td]Farm Pond[/td][/tr][tr][td]  #3[/td][td]Forest Pond[/td][/tr][tr][td]  #4[/td][td]Small Cave[/td][/tr][tr][td] #5[/td][td]Misty Forest[/td][/tr][tr][td] #6[/td][td]Cucumber[/td][/tr][tr][td] #7[/td][td]Radish[/td][/tr][tr][td]  #8[/td][td]Small Pond[/td][/tr][tr][td]  #9[/td][td]Black Rock Canyon[/td][/tr][tr][td]  #10[/td][td]Leek[/td][/tr][/table]
+
+[ table][ tr][ th]Runestone[ /th][ th]Location[ /th][ /tr][ tr][ td]  #1[ /td][ td]Carrot[ /td][ /tr][ tr][ td]  #2[ /td][ td]Farm Pond[ /td][ /tr][ tr][ td]  #3[ /td][ td]Forest Pond[ /td][ /tr][ tr][ td]  #4[ /td][ td]Small Cave[ /td][ /tr][ tr][ td] #5[ /td][ td]Misty Forest[ /td][ /tr][ tr][ td] #6[ /td][ td]Cucumber[ /td][ /tr][ tr][ td] #7[ /td][ td]Radish[ /td][ /tr][ tr][ td]  #8[ /td][ td]Small Pond[ /td][ /tr][ tr][ td]  #9[ /td][ td]Black Rock Canyon[ /td][ /tr][ tr][ td]  #10[ /td][ td]Leek[ /td][ /tr][ /table]
+
+While formatting tables in a word editor (I build them in Excel, them copy them into Notepad++ to use search and replace to add all the tags) it is easier to keep each row on its own line. However, when pasted into the wiki, you want to remove all the carriage returns, and have the full code be on one line, or else it will put a bunch of extra white space above the table.
