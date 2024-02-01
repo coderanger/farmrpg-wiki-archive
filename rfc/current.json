@@ -2626,7 +2626,7 @@
   {
     "attack": 1576,
     "defense": 1628,
-    "hp": 920,
+    "hp": 1681,
     "league": 9,
     "league_rank": 52,
     "losses": 12647,
@@ -8130,7 +8130,7 @@
   {
     "attack": 825,
     "defense": 881,
-    "hp": 580,
+    "hp": 927,
     "league": 9,
     "league_rank": 494,
     "losses": 16156,
@@ -9298,7 +9298,7 @@
   {
     "attack": 734,
     "defense": 702,
-    "hp": 560,
+    "hp": 831,
     "league": 9,
     "league_rank": 627,
     "losses": 18789,
@@ -12194,7 +12194,7 @@
   {
     "attack": 766,
     "defense": 786,
-    "hp": 660,
+    "hp": 888,
     "league": 9,
     "league_rank": 581,
     "losses": 24919,
@@ -15920,22 +15920,6 @@
     "wins": 30795
   },
   {
-    "attack": 455,
-    "defense": 465,
-    "hp": 60,
-    "league": 9,
-    "league_rank": 1124,
-    "losses": 10034,
-    "max_hp": 596,
-    "rank": 995,
-    "raptor_name": "Frost",
-    "special_attack": 481,
-    "special_defense": 502,
-    "speed": 485,
-    "trainer_name": "Muxxos",
-    "wins": 25341
-  },
-  {
     "attack": 832,
     "defense": 852,
     "hp": 930,
@@ -15950,6 +15934,22 @@
     "speed": 857,
     "trainer_name": "Doomnoom",
     "wins": 49815
+  },
+  {
+    "attack": 455,
+    "defense": 465,
+    "hp": 596,
+    "league": 9,
+    "league_rank": 1124,
+    "losses": 10034,
+    "max_hp": 596,
+    "rank": 995,
+    "raptor_name": "Frost",
+    "special_attack": 481,
+    "special_defense": 502,
+    "speed": 485,
+    "trainer_name": "Muxxos",
+    "wins": 25341
   },
   {
     "attack": 725,
@@ -16402,7 +16402,7 @@
   {
     "attack": 463,
     "defense": 465,
-    "hp": 480,
+    "hp": 517,
     "league": 9,
     "league_rank": 1378,
     "losses": 10532,
@@ -20706,7 +20706,7 @@
   {
     "attack": 430,
     "defense": 426,
-    "hp": 100,
+    "hp": 528,
     "league": 9,
     "league_rank": 1001,
     "losses": 12143,
@@ -21666,7 +21666,7 @@
   {
     "attack": 482,
     "defense": 430,
-    "hp": 160,
+    "hp": 492,
     "league": 9,
     "league_rank": 1552,
     "losses": 13500,
@@ -35586,7 +35586,7 @@
   {
     "attack": 342,
     "defense": 371,
-    "hp": 80,
+    "hp": 460,
     "league": 8,
     "league_rank": 114,
     "losses": 12849,
@@ -35602,7 +35602,7 @@
   {
     "attack": 387,
     "defense": 408,
-    "hp": 100,
+    "hp": 468,
     "league": 8,
     "league_rank": 110,
     "losses": 13125,
@@ -50994,7 +50994,7 @@
   {
     "attack": 317,
     "defense": 292,
-    "hp": 200,
+    "hp": 423,
     "league": 8,
     "league_rank": 270,
     "losses": 12124,
@@ -53890,7 +53890,7 @@
   {
     "attack": 266,
     "defense": 222,
-    "hp": 220,
+    "hp": 352,
     "league": 8,
     "league_rank": 847,
     "losses": 9801,
@@ -56850,7 +56850,7 @@
   {
     "attack": 203,
     "defense": 174,
-    "hp": 20,
+    "hp": 289,
     "league": 8,
     "league_rank": 1149,
     "losses": 5987,
@@ -57522,7 +57522,7 @@
   {
     "attack": 125,
     "defense": 106,
-    "hp": 140,
+    "hp": 216,
     "league": 7,
     "league_rank": 177,
     "losses": 752,
@@ -59602,7 +59602,7 @@
   {
     "attack": 187,
     "defense": 176,
-    "hp": 180,
+    "hp": 293,
     "league": 8,
     "league_rank": 557,
     "losses": 5954,
@@ -59810,7 +59810,7 @@
   {
     "attack": 199,
     "defense": 171,
-    "hp": 180,
+    "hp": 283,
     "league": 8,
     "league_rank": 988,
     "losses": 6188,
@@ -68353,8 +68353,8 @@
   },
   {
     "attack": 157,
-    "defense": 148,
-    "hp": 160,
+    "defense": 151,
+    "hp": 247,
     "league": 7,
     "league_rank": 143,
     "losses": 5086,
@@ -68363,7 +68363,7 @@
     "raptor_name": "Raptor 155",
     "special_attack": 141,
     "special_defense": 136,
-    "speed": 132,
+    "speed": 134,
     "trainer_name": "FranknBeans",
     "wins": 7990
   },
@@ -69184,18 +69184,18 @@
     "wins": 2825
   },
   {
-    "attack": 179,
+    "attack": 180,
     "defense": 158,
-    "hp": 120,
+    "hp": 262,
     "league": 7,
     "league_rank": 91,
     "losses": 6411,
     "max_hp": 262,
     "rank": 4327,
     "raptor_name": "Raptor 157",
-    "special_attack": 178,
+    "special_attack": 179,
     "special_defense": 173,
-    "speed": 173,
+    "speed": 174,
     "trainer_name": "FranknBeans",
     "wins": 9217
   },
@@ -74338,7 +74338,7 @@
   {
     "attack": 179,
     "defense": 152,
-    "hp": 200,
+    "hp": 254,
     "league": 7,
     "league_rank": 94,
     "losses": 7160,
@@ -81938,7 +81938,7 @@
   {
     "attack": 57,
     "defense": 55,
-    "hp": 40,
+    "hp": 151,
     "league": 6,
     "league_rank": 410,
     "losses": 745,
@@ -84462,6 +84462,22 @@
     "speed": 57,
     "trainer_name": "JennyJen",
     "wins": 2637
+  },
+  {
+    "attack": 182,
+    "defense": 183,
+    "hp": 90,
+    "league": 8,
+    "league_rank": 1218,
+    "losses": 6023,
+    "max_hp": 268,
+    "rank": 5282,
+    "raptor_name": "King",
+    "special_attack": 177,
+    "special_defense": 177,
+    "speed": 180,
+    "trainer_name": "Ziid",
+    "wins": 10249
   },
   {
     "attack": 191,
@@ -92290,7 +92306,7 @@
   {
     "attack": 543,
     "defense": 526,
-    "hp": 240,
+    "hp": 632,
     "league": 9,
     "league_rank": 3632,
     "losses": 30849,
@@ -93886,6 +93902,22 @@
     "speed": 100,
     "trainer_name": "Darcious",
     "wins": 5218
+  },
+  {
+    "attack": 194,
+    "defense": 217,
+    "hp": 120,
+    "league": 8,
+    "league_rank": 1682,
+    "losses": 7557,
+    "max_hp": 282,
+    "rank": 5871,
+    "raptor_name": "King",
+    "special_attack": 180,
+    "special_defense": 201,
+    "speed": 170,
+    "trainer_name": "Ziid",
+    "wins": 10914
   },
   {
     "attack": 111,
@@ -96194,7 +96226,7 @@
   {
     "attack": 418,
     "defense": 402,
-    "hp": 320,
+    "hp": 500,
     "league": 9,
     "league_rank": 1470,
     "losses": 24464,
@@ -114610,7 +114642,7 @@
   {
     "attack": 246,
     "defense": 268,
-    "hp": 140,
+    "hp": 362,
     "league": 8,
     "league_rank": 1678,
     "losses": 14779,
@@ -123570,7 +123602,7 @@
   {
     "attack": 9,
     "defense": 4,
-    "hp": 100,
+    "hp": 101,
     "league": 4,
     "league_rank": 159,
     "losses": 136,
@@ -126994,7 +127026,7 @@
   {
     "attack": 4,
     "defense": 7,
-    "hp": 100,
+    "hp": 101,
     "league": 3,
     "league_rank": 113,
     "losses": 86,
@@ -127666,7 +127698,7 @@
   {
     "attack": 7,
     "defense": 2,
-    "hp": 100,
+    "hp": 102,
     "league": 3,
     "league_rank": 116,
     "losses": 85,
@@ -131874,7 +131906,7 @@
   {
     "attack": 37,
     "defense": 41,
-    "hp": 40,
+    "hp": 134,
     "league": 12,
     "league_rank": 39,
     "losses": 2082,
@@ -132798,6 +132830,22 @@
     "speed": 25,
     "trainer_name": "JonnyB0417",
     "wins": 1343
+  },
+  {
+    "attack": 44,
+    "defense": 42,
+    "hp": 130,
+    "league": 6,
+    "league_rank": 217,
+    "losses": 741,
+    "max_hp": 128,
+    "rank": 8302,
+    "raptor_name": "Martha",
+    "special_attack": 45,
+    "special_defense": 42,
+    "speed": 45,
+    "trainer_name": "Big Goblin",
+    "wins": 2018
   },
   {
     "attack": 10,
@@ -137010,7 +137058,7 @@
   {
     "attack": 101,
     "defense": 89,
-    "hp": 40,
+    "hp": 191,
     "league": 7,
     "league_rank": 780,
     "losses": 5762,
@@ -150640,6 +150688,22 @@
     "wins": 2066
   },
   {
+    "attack": 97,
+    "defense": 102,
+    "hp": 50,
+    "league": 7,
+    "league_rank": 1565,
+    "losses": 5186,
+    "max_hp": 200,
+    "rank": 9417,
+    "raptor_name": "Sueprman",
+    "special_attack": 113,
+    "special_defense": 103,
+    "speed": 97,
+    "trainer_name": "Ziid",
+    "wins": 5701
+  },
+  {
     "attack": 419,
     "defense": 448,
     "hp": 140,
@@ -156048,16 +156112,16 @@
     "wins": 190
   },
   {
-    "attack": 109,
-    "defense": 104,
-    "hp": 210,
+    "attack": 110,
+    "defense": 105,
+    "hp": 211,
     "league": 7,
     "league_rank": 610,
     "losses": 6882,
-    "max_hp": 206,
+    "max_hp": 207,
     "rank": 9756,
     "raptor_name": "Raptor 144",
-    "special_attack": 107,
+    "special_attack": 109,
     "special_defense": 125,
     "speed": 128,
     "trainer_name": "FranknBeans",
@@ -161602,7 +161666,7 @@
   {
     "attack": 126,
     "defense": 132,
-    "hp": 160,
+    "hp": 209,
     "league": 7,
     "league_rank": 1128,
     "losses": 9218,
@@ -174098,7 +174162,7 @@
   {
     "attack": 490,
     "defense": 479,
-    "hp": 260,
+    "hp": 552,
     "league": 9,
     "league_rank": 3843,
     "losses": 31767,
@@ -185890,7 +185954,7 @@
   {
     "attack": 440,
     "defense": 441,
-    "hp": 120,
+    "hp": 568,
     "league": 9,
     "league_rank": 3599,
     "losses": 34150,
@@ -186322,7 +186386,7 @@
   {
     "attack": 485,
     "defense": 476,
-    "hp": 440,
+    "hp": 652,
     "league": 9,
     "league_rank": 3654,
     "losses": 36139,
@@ -187378,7 +187442,7 @@
   {
     "attack": 477,
     "defense": 476,
-    "hp": 500,
+    "hp": 600,
     "league": 9,
     "league_rank": 3753,
     "losses": 36897,
@@ -193102,6 +193166,22 @@
     "speed": 163,
     "trainer_name": "jesicamarie",
     "wins": 10016
+  },
+  {
+    "attack": 126,
+    "defense": 148,
+    "hp": 10,
+    "league": 7,
+    "league_rank": 920,
+    "losses": 8832,
+    "max_hp": 236,
+    "rank": 12892,
+    "raptor_name": "Raptor 2",
+    "special_attack": 147,
+    "special_defense": 147,
+    "speed": 121,
+    "trainer_name": "Ziid",
+    "wins": 7707
   },
   {
     "attack": 97,
