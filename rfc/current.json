@@ -674,7 +674,7 @@
   {
     "attack": 1897,
     "defense": 1888,
-    "hp": 1040,
+    "hp": 1947,
     "league": 10,
     "league_rank": 103,
     "losses": 20993,
@@ -722,7 +722,7 @@
   {
     "attack": 1985,
     "defense": 2107,
-    "hp": 520,
+    "hp": 2199,
     "league": 10,
     "league_rank": 122,
     "losses": 23018,
@@ -1778,7 +1778,7 @@
   {
     "attack": 2004,
     "defense": 2070,
-    "hp": 1760,
+    "hp": 2171,
     "league": 10,
     "league_rank": 28,
     "losses": 25170,
@@ -4626,7 +4626,7 @@
   {
     "attack": 1221,
     "defense": 1165,
-    "hp": 800,
+    "hp": 1330,
     "league": 9,
     "league_rank": 112,
     "losses": 28371,
@@ -12866,7 +12866,7 @@
   {
     "attack": 714,
     "defense": 713,
-    "hp": 200,
+    "hp": 825,
     "league": 9,
     "league_rank": 703,
     "losses": 15361,
@@ -14162,7 +14162,7 @@
   {
     "attack": 494,
     "defense": 524,
-    "hp": 40,
+    "hp": 564,
     "league": 9,
     "league_rank": 1241,
     "losses": 9802,
@@ -14322,7 +14322,7 @@
   {
     "attack": 477,
     "defense": 481,
-    "hp": 380,
+    "hp": 552,
     "league": 9,
     "league_rank": 1318,
     "losses": 9457,
@@ -17634,7 +17634,7 @@
   {
     "attack": 599,
     "defense": 555,
-    "hp": 20,
+    "hp": 662,
     "league": 9,
     "league_rank": 2052,
     "losses": 17655,
@@ -25186,7 +25186,7 @@
   {
     "attack": 785,
     "defense": 770,
-    "hp": 810,
+    "hp": 909,
     "league": 9,
     "league_rank": 593,
     "losses": 34750,
@@ -35954,7 +35954,7 @@
   {
     "attack": 354,
     "defense": 389,
-    "hp": 400,
+    "hp": 422,
     "league": 8,
     "league_rank": 130,
     "losses": 12127,
@@ -36722,7 +36722,7 @@
   {
     "attack": 538,
     "defense": 499,
-    "hp": 340,
+    "hp": 626,
     "league": 9,
     "league_rank": 2936,
     "losses": 22275,
@@ -39746,7 +39746,7 @@
   {
     "attack": 502,
     "defense": 470,
-    "hp": 580,
+    "hp": 600,
     "league": 9,
     "league_rank": 3183,
     "losses": 21831,
@@ -41218,7 +41218,7 @@
   {
     "attack": 269,
     "defense": 299,
-    "hp": 40,
+    "hp": 380,
     "league": 8,
     "league_rank": 337,
     "losses": 9323,
@@ -52018,7 +52018,7 @@
   {
     "attack": 208,
     "defense": 190,
-    "hp": 180,
+    "hp": 262,
     "league": 8,
     "league_rank": 697,
     "losses": 4852,
@@ -53106,7 +53106,7 @@
   {
     "attack": 249,
     "defense": 246,
-    "hp": 190,
+    "hp": 330,
     "league": 8,
     "league_rank": 977,
     "losses": 8455,
@@ -58850,7 +58850,7 @@
   {
     "attack": 172,
     "defense": 162,
-    "hp": 130,
+    "hp": 233,
     "league": 7,
     "league_rank": 74,
     "losses": 4018,
@@ -63922,7 +63922,7 @@
   {
     "attack": 474,
     "defense": 445,
-    "hp": 20,
+    "hp": 521,
     "league": 9,
     "league_rank": 3129,
     "losses": 23984,
@@ -78114,7 +78114,7 @@
   {
     "attack": 64,
     "defense": 47,
-    "hp": 20,
+    "hp": 160,
     "league": 6,
     "league_rank": 232,
     "losses": 474,
@@ -80418,7 +80418,7 @@
   {
     "attack": 56,
     "defense": 44,
-    "hp": 60,
+    "hp": 146,
     "league": 6,
     "league_rank": 344,
     "losses": 493,
@@ -82866,7 +82866,7 @@
   {
     "attack": 123,
     "defense": 110,
-    "hp": 120,
+    "hp": 215,
     "league": 7,
     "league_rank": 628,
     "losses": 4858,
@@ -83202,7 +83202,7 @@
   {
     "attack": 68,
     "defense": 52,
-    "hp": 40,
+    "hp": 161,
     "league": 6,
     "league_rank": 363,
     "losses": 1320,
@@ -87042,7 +87042,7 @@
   {
     "attack": 89,
     "defense": 94,
-    "hp": 60,
+    "hp": 165,
     "league": 6,
     "league_rank": 150,
     "losses": 3527,
@@ -103506,7 +103506,7 @@
   {
     "attack": 119,
     "defense": 110,
-    "hp": 80,
+    "hp": 215,
     "league": 7,
     "league_rank": 1025,
     "losses": 5962,
@@ -104738,7 +104738,7 @@
   {
     "attack": 172,
     "defense": 166,
-    "hp": 50,
+    "hp": 307,
     "league": 8,
     "league_rank": 1516,
     "losses": 10153,
@@ -136786,7 +136786,7 @@
   {
     "attack": 156,
     "defense": 184,
-    "hp": 220,
+    "hp": 286,
     "league": 8,
     "league_rank": 1282,
     "losses": 10426,
@@ -157650,7 +157650,7 @@
   {
     "attack": 496,
     "defense": 499,
-    "hp": 370,
+    "hp": 615,
     "league": 9,
     "league_rank": 3721,
     "losses": 31718,
@@ -160670,6 +160670,22 @@
     "speed": 4,
     "trainer_name": "Fun",
     "wins": 135
+  },
+  {
+    "attack": 15,
+    "defense": 11,
+    "hp": 105,
+    "league": 4,
+    "league_rank": 9,
+    "losses": 234,
+    "max_hp": 105,
+    "rank": 10040,
+    "raptor_name": "Raptor 4",
+    "special_attack": 16,
+    "special_defense": 9,
+    "speed": 15,
+    "trainer_name": "AngelaLaceyRosie",
+    "wins": 488
   },
   {
     "attack": 40,
@@ -174768,6 +174784,22 @@
     "wins": 532
   },
   {
+    "attack": 45,
+    "defense": 32,
+    "hp": 80,
+    "league": 6,
+    "league_rank": 471,
+    "losses": 2087,
+    "max_hp": 136,
+    "rank": 10923,
+    "raptor_name": "Raptor 1",
+    "special_attack": 34,
+    "special_defense": 32,
+    "speed": 39,
+    "trainer_name": "Pooopy",
+    "wins": 2033
+  },
+  {
     "attack": 230,
     "defense": 208,
     "hp": 80,
@@ -174962,7 +174994,7 @@
   {
     "attack": 34,
     "defense": 36,
-    "hp": 40,
+    "hp": 134,
     "league": 6,
     "league_rank": 1683,
     "losses": 5471,
@@ -193168,6 +193200,22 @@
     "wins": 10016
   },
   {
+    "attack": 36,
+    "defense": 24,
+    "hp": 20,
+    "league": 12,
+    "league_rank": 374,
+    "losses": 2401,
+    "max_hp": 127,
+    "rank": 12322,
+    "raptor_name": "Raptor 3",
+    "special_attack": 29,
+    "special_defense": 32,
+    "speed": 29,
+    "trainer_name": "Pooopy",
+    "wins": 1685
+  },
+  {
     "attack": 126,
     "defense": 148,
     "hp": 10,
@@ -193184,6 +193232,22 @@
     "wins": 7707
   },
   {
+    "attack": 37,
+    "defense": 30,
+    "hp": 140,
+    "league": 6,
+    "league_rank": 1889,
+    "losses": 5514,
+    "max_hp": 132,
+    "rank": 15026,
+    "raptor_name": "Raptor 3",
+    "special_attack": 38,
+    "special_defense": 45,
+    "speed": 39,
+    "trainer_name": "AngelaLaceyRosie",
+    "wins": 2075
+  },
+  {
     "attack": 97,
     "defense": 80,
     "hp": 90,
@@ -193198,6 +193262,22 @@
     "speed": 85,
     "trainer_name": "EccentricPresence",
     "wins": 5143
+  },
+  {
+    "attack": 5,
+    "defense": 4,
+    "hp": 100,
+    "league": 4,
+    "league_rank": 345,
+    "losses": 4601,
+    "max_hp": 105,
+    "rank": 15468,
+    "raptor_name": "Raptor 2",
+    "special_attack": 6,
+    "special_defense": 6,
+    "speed": 5,
+    "trainer_name": "Pooopy",
+    "wins": 273
   },
   {
     "attack": 87,
