@@ -3138,7 +3138,7 @@
   {
     "attack": 1396,
     "defense": 1468,
-    "hp": 910,
+    "hp": 1444,
     "league": 9,
     "league_rank": 60,
     "losses": 19464,
@@ -12194,7 +12194,7 @@
   {
     "attack": 563,
     "defense": 509,
-    "hp": 530,
+    "hp": 617,
     "league": 9,
     "league_rank": 1033,
     "losses": 7843,
@@ -12562,7 +12562,7 @@
   {
     "attack": 436,
     "defense": 436,
-    "hp": 350,
+    "hp": 553,
     "league": 9,
     "league_rank": 1069,
     "losses": 7157,
@@ -13634,7 +13634,7 @@
   {
     "attack": 590,
     "defense": 608,
-    "hp": 500,
+    "hp": 710,
     "league": 9,
     "league_rank": 932,
     "losses": 11348,
@@ -20290,7 +20290,7 @@
   {
     "attack": 479,
     "defense": 497,
-    "hp": 90,
+    "hp": 559,
     "league": 9,
     "league_rank": 1910,
     "losses": 14171,
@@ -21698,7 +21698,7 @@
   {
     "attack": 450,
     "defense": 471,
-    "hp": 360,
+    "hp": 567,
     "league": 9,
     "league_rank": 2155,
     "losses": 13971,
@@ -27554,7 +27554,7 @@
   {
     "attack": 434,
     "defense": 443,
-    "hp": 270,
+    "hp": 556,
     "league": 9,
     "league_rank": 1658,
     "losses": 14992,
@@ -30674,7 +30674,7 @@
   {
     "attack": 816,
     "defense": 783,
-    "hp": 250,
+    "hp": 876,
     "league": 9,
     "league_rank": 546,
     "losses": 36354,
@@ -33778,7 +33778,7 @@
   {
     "attack": 439,
     "defense": 463,
-    "hp": 520,
+    "hp": 568,
     "league": 9,
     "league_rank": 2123,
     "losses": 17578,
@@ -34082,7 +34082,7 @@
   {
     "attack": 438,
     "defense": 443,
-    "hp": 350,
+    "hp": 548,
     "league": 9,
     "league_rank": 2019,
     "losses": 17016,
@@ -34482,7 +34482,7 @@
   {
     "attack": 263,
     "defense": 287,
-    "hp": 130,
+    "hp": 364,
     "league": 8,
     "league_rank": 390,
     "losses": 5475,
@@ -37730,7 +37730,7 @@
   {
     "attack": 400,
     "defense": 404,
-    "hp": 440,
+    "hp": 542,
     "league": 9,
     "league_rank": 997,
     "losses": 16729,
@@ -38878,22 +38878,6 @@
     "speed": 450,
     "trainer_name": "Bonic",
     "wins": 27278
-  },
-  {
-    "attack": 413,
-    "defense": 438,
-    "hp": 230,
-    "league": 9,
-    "league_rank": 1368,
-    "losses": 17310,
-    "max_hp": 489,
-    "rank": 2428,
-    "raptor_name": "Raptor 153",
-    "special_attack": 437,
-    "special_defense": 443,
-    "speed": 436,
-    "trainer_name": "Steener",
-    "wins": 25336
   },
   {
     "attack": 464,
@@ -40290,7 +40274,7 @@
   {
     "attack": 480,
     "defense": 498,
-    "hp": 540,
+    "hp": 544,
     "league": 9,
     "league_rank": 2887,
     "losses": 19604,
@@ -45186,7 +45170,7 @@
   {
     "attack": 205,
     "defense": 190,
-    "hp": 230,
+    "hp": 272,
     "league": 8,
     "league_rank": 657,
     "losses": 3443,
@@ -49040,6 +49024,22 @@
     "wins": 25203
   },
   {
+    "attack": 469,
+    "defense": 462,
+    "hp": 360,
+    "league": 9,
+    "league_rank": 4103,
+    "losses": 18238,
+    "max_hp": 544,
+    "rank": 3061,
+    "raptor_name": "Raptor 14",
+    "special_attack": 452,
+    "special_defense": 461,
+    "speed": 464,
+    "trainer_name": "Farmer Yoshi",
+    "wins": 26911
+  },
+  {
     "attack": 506,
     "defense": 483,
     "hp": 520,
@@ -52432,6 +52432,22 @@
     "wins": 41955
   },
   {
+    "attack": 500,
+    "defense": 475,
+    "hp": 280,
+    "league": 9,
+    "league_rank": 4767,
+    "losses": 20538,
+    "max_hp": 621,
+    "rank": 3274,
+    "raptor_name": "Raptor 9",
+    "special_attack": 491,
+    "special_defense": 481,
+    "speed": 492,
+    "trainer_name": "Farmer Yoshi",
+    "wins": 28651
+  },
+  {
     "attack": 691,
     "defense": 594,
     "hp": 230,
@@ -54258,7 +54274,7 @@
   {
     "attack": 143,
     "defense": 155,
-    "hp": 70,
+    "hp": 233,
     "league": 7,
     "league_rank": 66,
     "losses": 3059,
@@ -60690,7 +60706,7 @@
   {
     "attack": 145,
     "defense": 133,
-    "hp": 110,
+    "hp": 249,
     "league": 7,
     "league_rank": 105,
     "losses": 3452,
@@ -67922,7 +67938,7 @@
   {
     "attack": 204,
     "defense": 169,
-    "hp": 10,
+    "hp": 261,
     "league": 8,
     "league_rank": 730,
     "losses": 7066,
@@ -77346,7 +77362,7 @@
   {
     "attack": 111,
     "defense": 125,
-    "hp": 50,
+    "hp": 199,
     "league": 7,
     "league_rank": 458,
     "losses": 4056,
@@ -78562,7 +78578,7 @@
   {
     "attack": 176,
     "defense": 194,
-    "hp": 150,
+    "hp": 266,
     "league": 8,
     "league_rank": 966,
     "losses": 8298,
@@ -80160,22 +80176,6 @@
     "wins": 5178
   },
   {
-    "attack": 230,
-    "defense": 208,
-    "hp": 70,
-    "league": 8,
-    "league_rank": 1625,
-    "losses": 7296,
-    "max_hp": 308,
-    "rank": 5006,
-    "raptor_name": "Raptor 5",
-    "special_attack": 244,
-    "special_defense": 215,
-    "speed": 224,
-    "trainer_name": "Farmer January K. Grivet",
-    "wins": 11980
-  },
-  {
     "attack": 112,
     "defense": 130,
     "hp": 200,
@@ -80190,6 +80190,22 @@
     "speed": 98,
     "trainer_name": "wata",
     "wins": 6113
+  },
+  {
+    "attack": 230,
+    "defense": 208,
+    "hp": 70,
+    "league": 8,
+    "league_rank": 1625,
+    "losses": 7296,
+    "max_hp": 308,
+    "rank": 5006,
+    "raptor_name": "Raptor 5",
+    "special_attack": 244,
+    "special_defense": 215,
+    "speed": 224,
+    "trainer_name": "Farmer January K. Grivet",
+    "wins": 11980
   },
   {
     "attack": 64,
@@ -84194,7 +84210,7 @@
   {
     "attack": 50,
     "defense": 40,
-    "hp": 70,
+    "hp": 145,
     "league": 12,
     "league_rank": 3,
     "losses": 377,
@@ -87890,7 +87906,7 @@
   {
     "attack": 41,
     "defense": 58,
-    "hp": 20,
+    "hp": 142,
     "league": 6,
     "league_rank": 842,
     "losses": 1345,
@@ -92368,6 +92384,22 @@
     "wins": 2036
   },
   {
+    "attack": 267,
+    "defense": 280,
+    "hp": 220,
+    "league": 8,
+    "league_rank": 1273,
+    "losses": 11921,
+    "max_hp": 353,
+    "rank": 5767,
+    "raptor_name": "Jimothy",
+    "special_attack": 282,
+    "special_defense": 260,
+    "speed": 276,
+    "trainer_name": "nuggetator",
+    "wins": 15414
+  },
+  {
     "attack": 35,
     "defense": 35,
     "hp": 100,
@@ -92866,7 +92898,7 @@
   {
     "attack": 67,
     "defense": 49,
-    "hp": 30,
+    "hp": 154,
     "league": 6,
     "league_rank": 563,
     "losses": 2304,
@@ -95618,7 +95650,7 @@
   {
     "attack": 622,
     "defense": 599,
-    "hp": 640,
+    "hp": 769,
     "league": 9,
     "league_rank": 2368,
     "losses": 36855,
@@ -98034,7 +98066,7 @@
   {
     "attack": 28,
     "defense": 26,
-    "hp": 110,
+    "hp": 119,
     "league": 12,
     "league_rank": 239,
     "losses": 480,
@@ -105808,22 +105840,6 @@
     "wins": 9452
   },
   {
-    "attack": 20,
-    "defense": 29,
-    "hp": 30,
-    "league": 12,
-    "league_rank": 426,
-    "losses": 640,
-    "max_hp": 119,
-    "rank": 6609,
-    "raptor_name": "Night Basket",
-    "special_attack": 33,
-    "special_defense": 18,
-    "speed": 20,
-    "trainer_name": "RoshiWatches",
-    "wins": 1122
-  },
-  {
     "attack": 45,
     "defense": 37,
     "hp": 30,
@@ -110800,22 +110816,6 @@
     "wins": 25684
   },
   {
-    "attack": 20,
-    "defense": 21,
-    "hp": 90,
-    "league": 5,
-    "league_rank": 135,
-    "losses": 387,
-    "max_hp": 116,
-    "rank": 6922,
-    "raptor_name": "Raptor 1",
-    "special_attack": 19,
-    "special_defense": 16,
-    "speed": 20,
-    "trainer_name": "Farmer Linda R. Kilker",
-    "wins": 750
-  },
-  {
     "attack": 416,
     "defense": 412,
     "hp": 520,
@@ -110830,6 +110830,22 @@
     "speed": 426,
     "trainer_name": "Heatwave",
     "wins": 25233
+  },
+  {
+    "attack": 20,
+    "defense": 21,
+    "hp": 90,
+    "league": 5,
+    "league_rank": 135,
+    "losses": 387,
+    "max_hp": 116,
+    "rank": 6922,
+    "raptor_name": "Raptor 1",
+    "special_attack": 19,
+    "special_defense": 16,
+    "speed": 20,
+    "trainer_name": "Farmer Linda R. Kilker",
+    "wins": 750
   },
   {
     "attack": 19,
@@ -115858,7 +115874,7 @@
   {
     "attack": 46,
     "defense": 42,
-    "hp": 100,
+    "hp": 137,
     "league": 6,
     "league_rank": 1243,
     "losses": 2279,
@@ -116338,7 +116354,7 @@
   {
     "attack": 38,
     "defense": 37,
-    "hp": 30,
+    "hp": 130,
     "league": 6,
     "league_rank": 910,
     "losses": 1871,
@@ -119266,7 +119282,7 @@
   {
     "attack": 15,
     "defense": 12,
-    "hp": 10,
+    "hp": 109,
     "league": 5,
     "league_rank": 409,
     "losses": 435,
@@ -119792,22 +119808,6 @@
     "wins": 720
   },
   {
-    "attack": 12,
-    "defense": 16,
-    "hp": 80,
-    "league": 5,
-    "league_rank": 289,
-    "losses": 397,
-    "max_hp": 117,
-    "rank": 7484,
-    "raptor_name": "Straw Reaper",
-    "special_attack": 14,
-    "special_defense": 11,
-    "speed": 11,
-    "trainer_name": "RoshiWatches",
-    "wins": 537
-  },
-  {
     "attack": 4,
     "defense": 17,
     "hp": 100,
@@ -120114,7 +120114,7 @@
   {
     "attack": 13,
     "defense": 17,
-    "hp": 50,
+    "hp": 107,
     "league": 5,
     "league_rank": 402,
     "losses": 435,
@@ -123214,22 +123214,6 @@
     "speed": 7,
     "trainer_name": "Bingo Heeler",
     "wins": 134
-  },
-  {
-    "attack": 5,
-    "defense": 5,
-    "hp": 10,
-    "league": 4,
-    "league_rank": 143,
-    "losses": 33,
-    "max_hp": 105,
-    "rank": 7698,
-    "raptor_name": "Burn-ey",
-    "special_attack": 5,
-    "special_defense": 6,
-    "speed": 6,
-    "trainer_name": "RoshiWatches",
-    "wins": 108
   },
   {
     "attack": 11,
@@ -136416,6 +136400,22 @@
     "wins": 2315
   },
   {
+    "attack": 176,
+    "defense": 174,
+    "hp": 270,
+    "league": 8,
+    "league_rank": 806,
+    "losses": 9091,
+    "max_hp": 262,
+    "rank": 8523,
+    "raptor_name": "Skelly",
+    "special_attack": 184,
+    "special_defense": 177,
+    "speed": 168,
+    "trainer_name": "nuggetator",
+    "wins": 10021
+  },
+  {
     "attack": 4,
     "defense": 8,
     "hp": 70,
@@ -149168,6 +149168,22 @@
     "wins": 1161
   },
   {
+    "attack": 28,
+    "defense": 26,
+    "hp": 120,
+    "league": 12,
+    "league_rank": 410,
+    "losses": 576,
+    "max_hp": 120,
+    "rank": 9326,
+    "raptor_name": "Raptor 5",
+    "special_attack": 21,
+    "special_defense": 21,
+    "speed": 18,
+    "trainer_name": "Farmer JayKayPea",
+    "wins": 1129
+  },
+  {
     "attack": 45,
     "defense": 59,
     "hp": 110,
@@ -149646,6 +149662,22 @@
     "speed": 13,
     "trainer_name": "Juuj",
     "wins": 263
+  },
+  {
+    "attack": 21,
+    "defense": 25,
+    "hp": 114,
+    "league": 12,
+    "league_rank": 746,
+    "losses": 560,
+    "max_hp": 114,
+    "rank": 9355,
+    "raptor_name": "Raptor 6",
+    "special_attack": 27,
+    "special_defense": 21,
+    "speed": 26,
+    "trainer_name": "Farmer JayKayPea",
+    "wins": 1096
   },
   {
     "attack": 5,
@@ -152576,6 +152608,22 @@
     "wins": 1111
   },
   {
+    "attack": 27,
+    "defense": 21,
+    "hp": 124,
+    "league": 12,
+    "league_rank": 411,
+    "losses": 587,
+    "max_hp": 124,
+    "rank": 9538,
+    "raptor_name": "Raptor 7",
+    "special_attack": 24,
+    "special_defense": 24,
+    "speed": 15,
+    "trainer_name": "Farmer JayKayPea",
+    "wins": 1046
+  },
+  {
     "attack": 101,
     "defense": 118,
     "hp": 90,
@@ -153502,6 +153550,22 @@
     "speed": 17,
     "trainer_name": "Farmer Pete",
     "wins": 636
+  },
+  {
+    "attack": 226,
+    "defense": 198,
+    "hp": 0,
+    "league": 8,
+    "league_rank": 2717,
+    "losses": 11085,
+    "max_hp": 281,
+    "rank": 9596,
+    "raptor_name": "BasicB",
+    "special_attack": 183,
+    "special_defense": 203,
+    "speed": 191,
+    "trainer_name": "nuggetator",
+    "wins": 11523
   },
   {
     "attack": 584,
@@ -166848,6 +166912,22 @@
     "wins": 2023
   },
   {
+    "attack": 16,
+    "defense": 11,
+    "hp": 120,
+    "league": 5,
+    "league_rank": 255,
+    "losses": 648,
+    "max_hp": 120,
+    "rank": 10434,
+    "raptor_name": "Raptor 4",
+    "special_attack": 21,
+    "special_defense": 23,
+    "speed": 15,
+    "trainer_name": "Farmer JayKayPea",
+    "wins": 752
+  },
+  {
     "attack": 88,
     "defense": 81,
     "hp": 174,
@@ -167410,7 +167490,7 @@
   {
     "attack": 38,
     "defense": 41,
-    "hp": 130,
+    "hp": 131,
     "league": 6,
     "league_rank": 821,
     "losses": 3654,
@@ -172402,7 +172482,7 @@
   {
     "attack": 250,
     "defense": 297,
-    "hp": 30,
+    "hp": 381,
     "league": 8,
     "league_rank": 894,
     "losses": 18342,
