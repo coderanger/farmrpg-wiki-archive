@@ -51874,7 +51874,7 @@
   {
     "attack": 202,
     "defense": 215,
-    "hp": 130,
+    "hp": 290,
     "league": 8,
     "league_rank": 1391,
     "losses": 5778,
@@ -67634,7 +67634,7 @@
   {
     "attack": 213,
     "defense": 233,
-    "hp": 110,
+    "hp": 292,
     "league": 8,
     "league_rank": 1767,
     "losses": 9213,
@@ -76930,7 +76930,7 @@
   {
     "attack": 65,
     "defense": 69,
-    "hp": 130,
+    "hp": 159,
     "league": 6,
     "league_rank": 203,
     "losses": 170,
@@ -80160,22 +80160,6 @@
     "wins": 5178
   },
   {
-    "attack": 112,
-    "defense": 130,
-    "hp": 200,
-    "league": 7,
-    "league_rank": 418,
-    "losses": 4265,
-    "max_hp": 191,
-    "rank": 5006,
-    "raptor_name": "rotpaR",
-    "special_attack": 109,
-    "special_defense": 116,
-    "speed": 98,
-    "trainer_name": "wata",
-    "wins": 6113
-  },
-  {
     "attack": 230,
     "defense": 208,
     "hp": 70,
@@ -80190,6 +80174,22 @@
     "speed": 224,
     "trainer_name": "Farmer January K. Grivet",
     "wins": 11980
+  },
+  {
+    "attack": 112,
+    "defense": 130,
+    "hp": 200,
+    "league": 7,
+    "league_rank": 418,
+    "losses": 4265,
+    "max_hp": 191,
+    "rank": 5006,
+    "raptor_name": "rotpaR",
+    "special_attack": 109,
+    "special_defense": 116,
+    "speed": 98,
+    "trainer_name": "wata",
+    "wins": 6113
   },
   {
     "attack": 64,
@@ -109872,22 +109872,6 @@
     "wins": 573
   },
   {
-    "attack": 27,
-    "defense": 28,
-    "hp": 118,
-    "league": 12,
-    "league_rank": 296,
-    "losses": 961,
-    "max_hp": 118,
-    "rank": 6863,
-    "raptor_name": "Raptor 1",
-    "special_attack": 24,
-    "special_defense": 25,
-    "speed": 33,
-    "trainer_name": "Talonvor",
-    "wins": 1342
-  },
-  {
     "attack": 15,
     "defense": 13,
     "hp": 108,
@@ -116286,22 +116270,6 @@
     "speed": 98,
     "trainer_name": "AngelElectric",
     "wins": 5543
-  },
-  {
-    "attack": 13,
-    "defense": 12,
-    "hp": 90,
-    "league": 4,
-    "league_rank": 31,
-    "losses": 96,
-    "max_hp": 107,
-    "rank": 7263,
-    "raptor_name": "Raptor 5",
-    "special_attack": 12,
-    "special_defense": 10,
-    "speed": 12,
-    "trainer_name": "Talonvor",
-    "wins": 320
   },
   {
     "attack": 54,
@@ -130498,7 +130466,7 @@
   {
     "attack": 4,
     "defense": 9,
-    "hp": 10,
+    "hp": 100,
     "league": 4,
     "league_rank": 223,
     "losses": 149,
@@ -132706,7 +132674,7 @@
   {
     "attack": 5,
     "defense": 6,
-    "hp": 50,
+    "hp": 101,
     "league": 4,
     "league_rank": 268,
     "losses": 200,
@@ -140526,22 +140494,6 @@
     "speed": 30,
     "trainer_name": "buffstrawberry",
     "wins": 2032
-  },
-  {
-    "attack": 13,
-    "defense": 10,
-    "hp": 120,
-    "league": 5,
-    "league_rank": 671,
-    "losses": 894,
-    "max_hp": 114,
-    "rank": 8778,
-    "raptor_name": "Raptor 4",
-    "special_attack": 19,
-    "special_defense": 17,
-    "speed": 13,
-    "trainer_name": "Talonvor",
-    "wins": 670
   },
   {
     "attack": 14,
@@ -152706,7 +152658,7 @@
   {
     "attack": 90,
     "defense": 101,
-    "hp": 90,
+    "hp": 211,
     "league": 7,
     "league_rank": 1038,
     "losses": 6470,
@@ -154610,7 +154562,7 @@
   {
     "attack": 2,
     "defense": 2,
-    "hp": 10,
+    "hp": 102,
     "league": 3,
     "league_rank": 131,
     "losses": 722,
@@ -158640,22 +158592,6 @@
     "wins": 1402
   },
   {
-    "attack": 62,
-    "defense": 50,
-    "hp": 150,
-    "league": 6,
-    "league_rank": 1565,
-    "losses": 3668,
-    "max_hp": 146,
-    "rank": 9916,
-    "raptor_name": "CheeKers",
-    "special_attack": 37,
-    "special_defense": 49,
-    "speed": 48,
-    "trainer_name": "Lexeex",
-    "wins": 2762
-  },
-  {
     "attack": 167,
     "defense": 171,
     "hp": 290,
@@ -161986,7 +161922,7 @@
   {
     "attack": 146,
     "defense": 155,
-    "hp": 90,
+    "hp": 242,
     "league": 7,
     "league_rank": 717,
     "losses": 9896,
@@ -162274,7 +162210,7 @@
   {
     "attack": 42,
     "defense": 40,
-    "hp": 70,
+    "hp": 139,
     "league": 6,
     "league_rank": 1628,
     "losses": 3495,
@@ -176450,7 +176386,7 @@
   {
     "attack": 17,
     "defense": 17,
-    "hp": 70,
+    "hp": 114,
     "league": 5,
     "league_rank": 768,
     "losses": 3607,
@@ -198478,6 +198414,22 @@
     "speed": 213,
     "trainer_name": "ale666",
     "wins": 12840
+  },
+  {
+    "attack": 45,
+    "defense": 41,
+    "hp": 122,
+    "league": 6,
+    "league_rank": 1263,
+    "losses": 2096,
+    "max_hp": 122,
+    "rank": 12406,
+    "raptor_name": "Squeegee",
+    "special_attack": 47,
+    "special_defense": 47,
+    "speed": 35,
+    "trainer_name": "Lexeex",
+    "wins": 2177
   },
   {
     "attack": 473,
