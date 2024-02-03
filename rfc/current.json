@@ -4930,7 +4930,7 @@
   {
     "attack": 1115,
     "defense": 1153,
-    "hp": 320,
+    "hp": 1281,
     "league": 9,
     "league_rank": 146,
     "losses": 29482,
@@ -6514,7 +6514,7 @@
   {
     "attack": 1051,
     "defense": 1016,
-    "hp": 20,
+    "hp": 1173,
     "league": 9,
     "league_rank": 200,
     "losses": 32079,
@@ -15842,7 +15842,7 @@
   {
     "attack": 803,
     "defense": 808,
-    "hp": 80,
+    "hp": 936,
     "league": 9,
     "league_rank": 521,
     "losses": 34079,
@@ -32882,7 +32882,7 @@
   {
     "attack": 494,
     "defense": 537,
-    "hp": 580,
+    "hp": 634,
     "league": 9,
     "league_rank": 3472,
     "losses": 21898,
@@ -35442,7 +35442,7 @@
   {
     "attack": 535,
     "defense": 555,
-    "hp": 540,
+    "hp": 684,
     "league": 9,
     "league_rank": 2535,
     "losses": 23266,
@@ -43138,7 +43138,7 @@
   {
     "attack": 569,
     "defense": 544,
-    "hp": 540,
+    "hp": 630,
     "league": 9,
     "league_rank": 2642,
     "losses": 24761,
@@ -53266,7 +53266,7 @@
   {
     "attack": 517,
     "defense": 536,
-    "hp": 440,
+    "hp": 606,
     "league": 9,
     "league_rank": 3466,
     "losses": 25824,
@@ -78034,7 +78034,7 @@
   {
     "attack": 62,
     "defense": 67,
-    "hp": 120,
+    "hp": 155,
     "league": 6,
     "league_rank": 202,
     "losses": 399,
@@ -79090,7 +79090,7 @@
   {
     "attack": 276,
     "defense": 273,
-    "hp": 160,
+    "hp": 363,
     "league": 8,
     "league_rank": 892,
     "losses": 14386,
@@ -82704,6 +82704,22 @@
     "wins": 5040
   },
   {
+    "attack": 495,
+    "defense": 425,
+    "hp": 562,
+    "league": 9,
+    "league_rank": 4176,
+    "losses": 23799,
+    "max_hp": 562,
+    "rank": 5171,
+    "raptor_name": "Robin",
+    "special_attack": 485,
+    "special_defense": 503,
+    "speed": 512,
+    "trainer_name": "KO50",
+    "wins": 28194
+  },
+  {
     "attack": 451,
     "defense": 446,
     "hp": 300,
@@ -83954,7 +83970,7 @@
   {
     "attack": 261,
     "defense": 266,
-    "hp": 360,
+    "hp": 366,
     "league": 8,
     "league_rank": 919,
     "losses": 13400,
@@ -95186,7 +95202,7 @@
   {
     "attack": 91,
     "defense": 90,
-    "hp": 20,
+    "hp": 199,
     "league": 7,
     "league_rank": 433,
     "losses": 4185,
@@ -96370,7 +96386,7 @@
   {
     "attack": 94,
     "defense": 82,
-    "hp": 80,
+    "hp": 205,
     "league": 7,
     "league_rank": 814,
     "losses": 4385,
@@ -117722,7 +117738,7 @@
     "rank": 7359,
     "raptor_name": "Chuckles",
     "special_attack": 17,
-    "special_defense": 17,
+    "special_defense": 18,
     "speed": 14,
     "trainer_name": "muelio",
     "wins": 695
@@ -138656,6 +138672,22 @@
     "wins": 629
   },
   {
+    "attack": 436,
+    "defense": 450,
+    "hp": 580,
+    "league": 9,
+    "league_rank": 5275,
+    "losses": 27074,
+    "max_hp": 580,
+    "rank": 8667,
+    "raptor_name": "Rhiannon",
+    "special_attack": 463,
+    "special_defense": 452,
+    "speed": 481,
+    "trainer_name": "KO50",
+    "wins": 27928
+  },
+  {
     "attack": 3,
     "defense": 3,
     "hp": 80,
@@ -148866,7 +148898,7 @@
   {
     "attack": 227,
     "defense": 237,
-    "hp": 100,
+    "hp": 344,
     "league": 8,
     "league_rank": 1955,
     "losses": 14570,
@@ -151602,7 +151634,7 @@
   {
     "attack": 24,
     "defense": 30,
-    "hp": 40,
+    "hp": 117,
     "league": 12,
     "league_rank": 657,
     "losses": 1756,
@@ -174672,6 +174704,22 @@
     "wins": 5935
   },
   {
+    "attack": 468,
+    "defense": 460,
+    "hp": 576,
+    "league": 9,
+    "league_rank": 5458,
+    "losses": 28951,
+    "max_hp": 576,
+    "rank": 10919,
+    "raptor_name": "Robbie",
+    "special_attack": 485,
+    "special_defense": 462,
+    "speed": 468,
+    "trainer_name": "KO50",
+    "wins": 28884
+  },
+  {
     "attack": 23,
     "defense": 26,
     "hp": 20,
@@ -179986,7 +180034,7 @@
   {
     "attack": 44,
     "defense": 59,
-    "hp": 60,
+    "hp": 138,
     "league": 6,
     "league_rank": 1633,
     "losses": 5481,
