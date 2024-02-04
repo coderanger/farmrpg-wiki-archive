@@ -6290,7 +6290,7 @@
   {
     "attack": 1057,
     "defense": 1021,
-    "hp": 960,
+    "hp": 1109,
     "league": 9,
     "league_rank": 227,
     "losses": 28514,
@@ -20242,7 +20242,7 @@
   {
     "attack": 547,
     "defense": 541,
-    "hp": 100,
+    "hp": 618,
     "league": 9,
     "league_rank": 3297,
     "losses": 17086,
@@ -22946,7 +22946,7 @@
   {
     "attack": 601,
     "defense": 616,
-    "hp": 200,
+    "hp": 686,
     "league": 9,
     "league_rank": 1389,
     "losses": 21486,
@@ -23282,7 +23282,7 @@
   {
     "attack": 499,
     "defense": 526,
-    "hp": 360,
+    "hp": 602,
     "league": 9,
     "league_rank": 3007,
     "losses": 16922,
@@ -24818,7 +24818,7 @@
   {
     "attack": 489,
     "defense": 457,
-    "hp": 260,
+    "hp": 560,
     "league": 9,
     "league_rank": 2789,
     "losses": 16359,
@@ -26338,7 +26338,7 @@
   {
     "attack": 528,
     "defense": 492,
-    "hp": 140,
+    "hp": 612,
     "league": 9,
     "league_rank": 3187,
     "losses": 17768,
@@ -30162,7 +30162,7 @@
   {
     "attack": 679,
     "defense": 673,
-    "hp": 540,
+    "hp": 782,
     "league": 9,
     "league_rank": 1048,
     "losses": 29955,
@@ -32242,7 +32242,7 @@
   {
     "attack": 510,
     "defense": 518,
-    "hp": 40,
+    "hp": 562,
     "league": 9,
     "league_rank": 3609,
     "losses": 20479,
@@ -32274,7 +32274,7 @@
   {
     "attack": 602,
     "defense": 577,
-    "hp": 440,
+    "hp": 692,
     "league": 9,
     "league_rank": 1760,
     "losses": 24630,
@@ -34130,7 +34130,7 @@
   {
     "attack": 458,
     "defense": 412,
-    "hp": 460,
+    "hp": 541,
     "league": 9,
     "league_rank": 1926,
     "losses": 16838,
@@ -41362,7 +41362,7 @@
   {
     "attack": 553,
     "defense": 572,
-    "hp": 140,
+    "hp": 621,
     "league": 9,
     "league_rank": 2301,
     "losses": 22968,
@@ -44434,7 +44434,7 @@
   {
     "attack": 658,
     "defense": 718,
-    "hp": 300,
+    "hp": 720,
     "league": 9,
     "league_rank": 2508,
     "losses": 32216,
@@ -46994,7 +46994,7 @@
   {
     "attack": 464,
     "defense": 468,
-    "hp": 140,
+    "hp": 566,
     "league": 9,
     "league_rank": 3605,
     "losses": 20766,
@@ -47986,7 +47986,7 @@
   {
     "attack": 212,
     "defense": 203,
-    "hp": 80,
+    "hp": 267,
     "league": 8,
     "league_rank": 557,
     "losses": 3638,
@@ -52994,7 +52994,7 @@
   {
     "attack": 655,
     "defense": 629,
-    "hp": 520,
+    "hp": 774,
     "league": 9,
     "league_rank": 1207,
     "losses": 32877,
@@ -72386,7 +72386,7 @@
   {
     "attack": 516,
     "defense": 520,
-    "hp": 260,
+    "hp": 605,
     "league": 9,
     "league_rank": 3581,
     "losses": 27648,
@@ -81794,7 +81794,7 @@
   {
     "attack": 85,
     "defense": 107,
-    "hp": 100,
+    "hp": 184,
     "league": 7,
     "league_rank": 541,
     "losses": 3312,
@@ -85170,7 +85170,7 @@
   {
     "attack": 453,
     "defense": 446,
-    "hp": 220,
+    "hp": 558,
     "league": 9,
     "league_rank": 3394,
     "losses": 25854,
@@ -96882,7 +96882,7 @@
   {
     "attack": 111,
     "defense": 120,
-    "hp": 100,
+    "hp": 193,
     "league": 7,
     "league_rank": 476,
     "losses": 5581,
@@ -102466,7 +102466,7 @@
   {
     "attack": 26,
     "defense": 32,
-    "hp": 90,
+    "hp": 123,
     "league": 12,
     "league_rank": 136,
     "losses": 580,
@@ -127826,7 +127826,7 @@
   {
     "attack": 8,
     "defense": 9,
-    "hp": 60,
+    "hp": 102,
     "league": 4,
     "league_rank": 86,
     "losses": 27,
@@ -129986,7 +129986,7 @@
   {
     "attack": 7,
     "defense": 7,
-    "hp": 80,
+    "hp": 101,
     "league": 3,
     "league_rank": 5,
     "losses": 30,
@@ -172866,7 +172866,7 @@
   {
     "attack": 548,
     "defense": 574,
-    "hp": 360,
+    "hp": 615,
     "league": 9,
     "league_rank": 3346,
     "losses": 33022,
@@ -173602,7 +173602,7 @@
   {
     "attack": 413,
     "defense": 430,
-    "hp": 260,
+    "hp": 519,
     "league": 9,
     "league_rank": 2829,
     "losses": 27444,
@@ -188914,7 +188914,7 @@
   {
     "attack": 496,
     "defense": 517,
-    "hp": 320,
+    "hp": 610,
     "league": 9,
     "league_rank": 3617,
     "losses": 34023,
@@ -196418,7 +196418,7 @@
   {
     "attack": 557,
     "defense": 594,
-    "hp": 100,
+    "hp": 660,
     "league": 9,
     "league_rank": 3577,
     "losses": 38367,
