@@ -688,6 +688,22 @@
     "wins": 101341
   },
   {
+    "attack": 2159,
+    "defense": 2152,
+    "hp": 2216,
+    "league": 10,
+    "league_rank": 92,
+    "losses": 19898,
+    "max_hp": 2216,
+    "rank": 43,
+    "raptor_name": "Find Out",
+    "special_attack": 2104,
+    "special_defense": 2094,
+    "speed": 2164,
+    "trainer_name": "Arboc Suomonev",
+    "wins": 103515
+  },
+  {
     "attack": 1897,
     "defense": 1889,
     "hp": 680,
@@ -834,7 +850,7 @@
   {
     "attack": 1916,
     "defense": 1968,
-    "hp": 220,
+    "hp": 1972,
     "league": 10,
     "league_rank": 71,
     "losses": 21188,
@@ -1152,6 +1168,22 @@
     "wins": 101933
   },
   {
+    "attack": 1907,
+    "defense": 1899,
+    "hp": 1968,
+    "league": 10,
+    "league_rank": 164,
+    "losses": 22743,
+    "max_hp": 1968,
+    "rank": 72,
+    "raptor_name": "Olivia",
+    "special_attack": 1928,
+    "special_defense": 1942,
+    "speed": 1952,
+    "trainer_name": "Mairon",
+    "wins": 101187
+  },
+  {
     "attack": 1848,
     "defense": 1898,
     "hp": 650,
@@ -1378,7 +1410,7 @@
   {
     "attack": 2109,
     "defense": 2066,
-    "hp": 440,
+    "hp": 2224,
     "league": 10,
     "league_rank": 141,
     "losses": 25841,
@@ -5906,7 +5938,7 @@
   {
     "attack": 855,
     "defense": 842,
-    "hp": 120,
+    "hp": 953,
     "league": 9,
     "league_rank": 354,
     "losses": 14680,
@@ -8226,7 +8258,7 @@
   {
     "attack": 1064,
     "defense": 988,
-    "hp": 1060,
+    "hp": 1137,
     "league": 9,
     "league_rank": 353,
     "losses": 20221,
@@ -9138,7 +9170,7 @@
   {
     "attack": 694,
     "defense": 678,
-    "hp": 540,
+    "hp": 775,
     "league": 9,
     "league_rank": 732,
     "losses": 15536,
@@ -18146,7 +18178,7 @@
   {
     "attack": 444,
     "defense": 483,
-    "hp": 360,
+    "hp": 591,
     "league": 9,
     "league_rank": 2258,
     "losses": 12374,
@@ -18242,7 +18274,7 @@
   {
     "attack": 682,
     "defense": 655,
-    "hp": 200,
+    "hp": 833,
     "league": 9,
     "league_rank": 757,
     "losses": 24909,
@@ -19774,22 +19806,6 @@
     "speed": 445,
     "trainer_name": "Clarity0301",
     "wins": 25568
-  },
-  {
-    "attack": 430,
-    "defense": 433,
-    "hp": 537,
-    "league": 8,
-    "league_rank": 23,
-    "losses": 8335,
-    "max_hp": 537,
-    "rank": 1237,
-    "raptor_name": "Blood Lust",
-    "special_attack": 402,
-    "special_defense": 438,
-    "speed": 415,
-    "trainer_name": "Arboc Suomonev",
-    "wins": 22112
   },
   {
     "attack": 771,
@@ -29906,7 +29922,7 @@
   {
     "attack": 573,
     "defense": 536,
-    "hp": 580,
+    "hp": 629,
     "league": 9,
     "league_rank": 1698,
     "losses": 21015,
@@ -34562,7 +34578,7 @@
   {
     "attack": 505,
     "defense": 498,
-    "hp": 120,
+    "hp": 584,
     "league": 9,
     "league_rank": 3460,
     "losses": 20649,
@@ -39954,7 +39970,7 @@
   {
     "attack": 452,
     "defense": 459,
-    "hp": 160,
+    "hp": 587,
     "league": 9,
     "league_rank": 2306,
     "losses": 18666,
@@ -46562,7 +46578,7 @@
   {
     "attack": 461,
     "defense": 519,
-    "hp": 220,
+    "hp": 604,
     "league": 9,
     "league_rank": 3167,
     "losses": 22356,
@@ -53554,7 +53570,7 @@
   {
     "attack": 468,
     "defense": 490,
-    "hp": 80,
+    "hp": 553,
     "league": 9,
     "league_rank": 2424,
     "losses": 21245,
@@ -53650,7 +53666,7 @@
   {
     "attack": 215,
     "defense": 205,
-    "hp": 40,
+    "hp": 315,
     "league": 8,
     "league_rank": 1509,
     "losses": 6397,
@@ -54098,7 +54114,7 @@
   {
     "attack": 509,
     "defense": 509,
-    "hp": 380,
+    "hp": 644,
     "league": 9,
     "league_rank": 3108,
     "losses": 24700,
@@ -54178,7 +54194,7 @@
   {
     "attack": 490,
     "defense": 503,
-    "hp": 240,
+    "hp": 585,
     "league": 9,
     "league_rank": 3542,
     "losses": 23964,
@@ -58754,7 +58770,7 @@
   {
     "attack": 439,
     "defense": 435,
-    "hp": 380,
+    "hp": 587,
     "league": 9,
     "league_rank": 2673,
     "losses": 22268,
@@ -63152,18 +63168,18 @@
     "wins": 12417
   },
   {
-    "attack": 183,
-    "defense": 170,
-    "hp": 281,
+    "attack": 200,
+    "defense": 184,
+    "hp": 302,
     "league": 6,
     "league_rank": 18,
     "losses": 14,
-    "max_hp": 281,
+    "max_hp": 302,
     "rank": 3948,
     "raptor_name": "Raptor 171",
-    "special_attack": 152,
-    "special_defense": 182,
-    "speed": 165,
+    "special_attack": 166,
+    "special_defense": 208,
+    "speed": 183,
     "trainer_name": "Tooper",
     "wins": 3979
   },
@@ -66242,7 +66258,7 @@
   {
     "attack": 94,
     "defense": 107,
-    "hp": 180,
+    "hp": 186,
     "league": 7,
     "league_rank": 193,
     "losses": 1463,
@@ -68482,7 +68498,7 @@
   {
     "attack": 210,
     "defense": 219,
-    "hp": 80,
+    "hp": 293,
     "league": 8,
     "league_rank": 1535,
     "losses": 8692,
@@ -68494,6 +68510,22 @@
     "speed": 215,
     "trainer_name": "Nololini",
     "wins": 11958
+  },
+  {
+    "attack": 234,
+    "defense": 208,
+    "hp": 355,
+    "league": 8,
+    "league_rank": 1904,
+    "losses": 7419,
+    "max_hp": 355,
+    "rank": 4281,
+    "raptor_name": "Raptor 1041",
+    "special_attack": 245,
+    "special_defense": 225,
+    "speed": 234,
+    "trainer_name": "Mairon",
+    "wins": 13399
   },
   {
     "attack": 190,
@@ -71890,7 +71922,7 @@
   {
     "attack": 82,
     "defense": 88,
-    "hp": 140,
+    "hp": 192,
     "league": 6,
     "league_rank": 53,
     "losses": 1527,
@@ -72370,7 +72402,7 @@
   {
     "attack": 492,
     "defense": 481,
-    "hp": 520,
+    "hp": 633,
     "league": 9,
     "league_rank": 3333,
     "losses": 26734,
@@ -78098,7 +78130,7 @@
   {
     "attack": 438,
     "defense": 485,
-    "hp": 120,
+    "hp": 517,
     "league": 9,
     "league_rank": 3118,
     "losses": 25087,
@@ -102992,17 +103024,17 @@
     "wins": 1031
   },
   {
-    "attack": 23,
-    "defense": 24,
-    "hp": 40,
+    "attack": 25,
+    "defense": 25,
+    "hp": 118,
     "league": 12,
     "league_rank": 413,
     "losses": 312,
-    "max_hp": 117,
+    "max_hp": 118,
     "rank": 6438,
     "raptor_name": "Raptor 1799",
-    "special_attack": 18,
-    "special_defense": 22,
+    "special_attack": 19,
+    "special_defense": 24,
     "speed": 22,
     "trainer_name": "President Taft",
     "wins": 1048
@@ -115986,7 +116018,7 @@
   {
     "attack": 14,
     "defense": 20,
-    "hp": 20,
+    "hp": 107,
     "league": 5,
     "league_rank": 231,
     "losses": 190,
@@ -116174,6 +116206,22 @@
     "speed": 28,
     "trainer_name": "Gustafrog",
     "wins": 2229
+  },
+  {
+    "attack": 74,
+    "defense": 65,
+    "hp": 150,
+    "league": 12,
+    "league_rank": 3,
+    "losses": 3,
+    "max_hp": 150,
+    "rank": 7261,
+    "raptor_name": "Raptor 1372",
+    "special_attack": 72,
+    "special_defense": 66,
+    "speed": 56,
+    "trainer_name": "Mairon",
+    "wins": 1801
   },
   {
     "attack": 41,
@@ -116914,7 +116962,7 @@
   {
     "attack": 13,
     "defense": 18,
-    "hp": 80,
+    "hp": 113,
     "league": 5,
     "league_rank": 174,
     "losses": 189,
@@ -130314,7 +130362,7 @@
     "rank": 8145,
     "raptor_name": "Primo",
     "special_attack": 39,
-    "special_defense": 44,
+    "special_defense": 45,
     "speed": 40,
     "trainer_name": "Farmer A. R. Cane PhD",
     "wins": 2097
@@ -137346,7 +137394,7 @@
   {
     "attack": 227,
     "defense": 228,
-    "hp": 220,
+    "hp": 336,
     "league": 8,
     "league_rank": 1467,
     "losses": 13650,
@@ -154962,7 +155010,7 @@
   {
     "attack": 101,
     "defense": 140,
-    "hp": 140,
+    "hp": 233,
     "league": 7,
     "league_rank": 1221,
     "losses": 8055,
@@ -167040,6 +167088,22 @@
     "wins": 26737
   },
   {
+    "attack": 238,
+    "defense": 283,
+    "hp": 350,
+    "league": 8,
+    "league_rank": 2626,
+    "losses": 15184,
+    "max_hp": 350,
+    "rank": 10440,
+    "raptor_name": "Raptor 852",
+    "special_attack": 251,
+    "special_defense": 240,
+    "speed": 305,
+    "trainer_name": "Mairon",
+    "wins": 15288
+  },
+  {
     "attack": 61,
     "defense": 60,
     "hp": 140,
@@ -168082,7 +168146,7 @@
   {
     "attack": 169,
     "defense": 171,
-    "hp": 80,
+    "hp": 290,
     "league": 8,
     "league_rank": 1756,
     "losses": 11533,
@@ -178866,7 +178930,7 @@
   {
     "attack": 158,
     "defense": 168,
-    "hp": 120,
+    "hp": 286,
     "league": 8,
     "league_rank": 1323,
     "losses": 12052,
@@ -198690,7 +198754,7 @@
   {
     "attack": 383,
     "defense": 422,
-    "hp": 180,
+    "hp": 539,
     "league": 9,
     "league_rank": 1725,
     "losses": 30887,
@@ -198834,7 +198898,7 @@
   {
     "attack": 76,
     "defense": 91,
-    "hp": 180,
+    "hp": 187,
     "league": 7,
     "league_rank": 386,
     "losses": 10758,
