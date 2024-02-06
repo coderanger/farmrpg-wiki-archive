@@ -1,0 +1,60 @@
+name: DVD Screensaver
+updated_datetime: '2024-02-06 10:51:57.000000'
+---
+
+  <style>
+	  :root {
+		--width:250px;
+		--height:calc(var(--width) / 2);
+	  }
+	  
+	  .container {
+		  width: 100%;
+		  height: 500px;
+		  margin: 0;
+		  padding: 0;
+		  background-color: black;
+	  }
+	  
+	  .ball {
+		width: var(--width);
+		height: var(--height);
+		background: url('https://farmrpg.com/img/dvd.png?4');
+		background-size: contain;
+		background-repeat: no-repeat;
+		position:absolute;
+	  
+		animation: toRight linear 6.8s infinite alternate, bounce linear 17s infinite alternate;
+	  }
+	  
+	  @keyframes bounce {
+		0% {
+		  top:0;
+		}
+		48% {
+		}
+		50% {
+		  top: calc(100% - var(--height));
+		}
+		52% {
+		}
+		100% {
+		  top: 0;
+		}
+	  }
+	  
+	  @keyframes toRight {
+	  
+		0% {
+		  left: 0;
+		}
+	  
+		100% {
+		  left: calc(100% - var(--width));
+		}
+	  }
+  </style>
+
+<div class="container">
+<div class="ball"></div>
+</div>
