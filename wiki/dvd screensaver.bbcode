@@ -1,0 +1,72 @@
+name: dvd screensaver
+updated_datetime: '2024-02-06 10:51:57.000000'
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>DVD Screensaver</title>
+  
+  <style>
+	  :root {
+		--width:250px;
+		--height:calc(var(--width) / 2);
+	  }
+	  
+	  html {
+		 padding: 0;
+		 margin: 0;
+	  }
+	  
+	  body {
+		background-color: black;
+		padding: 0;
+		margin: 0;
+	  }
+	  
+	  .ball {
+		width: var(--width);
+		height: var(--height);
+		background: url('https://farmrpg.com/img/dvd.png?1');
+		background-size: contain;
+		background-repeat: no-repeat;
+		position:absolute;
+	  
+		animation: toRight linear 6.8s infinite alternate, bounce linear 17s infinite alternate;
+	  }
+	  
+	  @keyframes bounce {
+		0% {
+		  top:0;
+		}
+		48% {
+		}
+		50% {
+		  top: calc(100% - var(--height));
+		}
+		52% {
+		}
+		100% {
+		  top: 0;
+		}
+	  }
+	  
+	  @keyframes toRight {
+	  
+		0% {
+		  left: 0;
+		}
+	  
+		100% {
+		  left: calc(100% - var(--width));
+		}
+	  }
+  </style>
+  
+</head>
+<body>
+  <div class="ball"></div>
+</body>
+</html>
