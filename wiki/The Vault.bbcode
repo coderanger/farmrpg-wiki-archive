@@ -1,5 +1,5 @@
 name: The Vault
-updated_datetime: '2024-10-17 08:34:22.000000'
+updated_datetime: '2024-10-17 08:46:51.000000'
 ---
 [center][b][size=20]The Vault[/size][/b]
 [img]https://farmrpg.com/img/items/vault.png[/img]
@@ -35,7 +35,14 @@ Let's assume the final solution is 1123; I'll write G/Y/B for grey/yellow/blue. 
 1111 BBYY # always yellow in wrong spot (the number 1 shows up in 2+ spots so all others are yellow)
 3330 YYYG # always yellow in wrong spot (the number 3 isn't guessed correctly so is yellow in all other spots)
 3003 GGGB # ... except if it's also blue (the number 3 is guessed correctly in the B spot but only shows up once so the first 3 is marked G instead of Y)
-3333 GGGB # Same thing as the above ^[/s]
+3333 GGGB # Same thing as the above ^
+
+Example: Single 0 in final solution, shows yellow everywhere when correct digit isn't found, shows gray everywhere else when correct digit is found
+[center][img]https://i.postimg.cc/7hh45x14/IMG-3497.jpg[/img][/center]
+
+Example: Multiple 8 in final solution, always shows yellow in incorrect positions, even when correct digits are found. 
+[center][img]https://i.postimg.cc/CxgFNVSG/IMG-3498.jpg[/img][/center]
+[/s]
 
 [color=orchid]For fun [/color][s]
 [img]https://i.imgur.com/at1pFeL.png[/img][/s]
