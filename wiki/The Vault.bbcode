@@ -1,5 +1,5 @@
 name: The Vault
-updated_datetime: '2024-06-23 10:32:53.000000'
+updated_datetime: '2024-10-17 08:34:22.000000'
 ---
 [center][b][size=20]The Vault[/size][/b]
 [img]https://farmrpg.com/img/items/vault.png[/img]
@@ -26,6 +26,16 @@ Enter 5678
 This will tell you 8 of the 10 numbers, and their positions. 
 This leaves 0 and 9 to figure out. 
 [/s]
+
+[color=orchid]Detailed Explanation & Example[/color][s]
+A common misunderstanding of the vault is how the yellow/gray digits work when a number shows up once/multiple times in the final solution. If a digit is in two or more spots in the target code, that digit will always be marked blue if you guess it in the right spot and yellow if you guess it in the wrong spot, however many times that digit appears in your guess. If a digit exists in just one spot in the target code, it will be marked blue if you guess it in the right spot, yellow if you guess it (only) in one or more wrong spots - but if you guess it in both the right spot _and_ one or more wrong spots, the right one will be marked blue and the wrong one(s) marked grey.
+
+Let's assume the final solution is 1123; I'll write G/Y/B for grey/yellow/blue. Given these attempts, the solution will give you this result for each guess:
+
+1111 BBYY # always yellow in wrong spot (the number 1 shows up in 2+ spots so all others are yellow)
+3330 YYYG # always yellow in wrong spot (the number 3 isn't guessed correctly so is yellow in all other spots)
+3003 GGGB # ... except if it's also blue (the number 3 is guessed correctly in the B spot but only shows up once so the first 3 is marked G instead of Y)
+3333 GGGB # Same thing as the above ^[/s]
 
 [color=orchid]For fun [/color][s]
 [img]https://i.imgur.com/at1pFeL.png[/img][/s]
